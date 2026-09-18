@@ -1,4 +1,4 @@
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.png.png)
 
 # 📊 Kredi Risk Analitiği & Portföy Performans Paneli
 
