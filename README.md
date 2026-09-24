@@ -1,6 +1,10 @@
-![Dashboard Preview](dashboard.png.png)
+![Dashboard Preview](dashboard.png)
+
 
 # 📊 Kredi Risk Analitiği & Portföy Performans Paneli
+
+This project analyzes a loan portfolio's default and delinquency dynamics by combining customer demographics, loan details, and installment repayment data. Raw relational data was modeled and cleaned with SQL, then turned into a dynamic Executive Risk Dashboard in Excel (Pivot Tables, Slicers, KPI cards). Key finding: certain occupation segments show high collection volume but concentrated delinquency, suggesting additional collateral criteria could reduce risk in those segments. 
+
 
 ## 📌 Proje Özeti
 Bu çalışma; müşteri demografisi, kredi detayları ve taksit geri ödeme verilerini entegre ederek kredi portföyünün temerrüt (default) ve gecikme dinamiklerini inceleyen uçtan uca bir veri analitiği projesidir. Ham ilişkisel veritabanı verileri **SQL** ile modellenmiş ve temizlenmiş; ardından **Excel** ortamında dinamik bir **Yönetici Risk Paneli** haline getirilmiştir.
